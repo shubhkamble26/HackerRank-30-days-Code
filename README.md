@@ -1,1 +1,1 @@
-# HackerRank-30-ays-Code
+# HackerRank-30-days-Code
